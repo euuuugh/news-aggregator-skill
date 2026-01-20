@@ -37,3 +37,4 @@ Thumbs.db
 # Temporary files from skill execution
 temp_*.json
 *.log
+reports/*.md
